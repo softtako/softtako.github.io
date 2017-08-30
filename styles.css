@@ -1,0 +1,33 @@
+.call-out-container {
+	max-width: 660px;
+	margin: 0px auto;
+
+	display: grid;
+	grid-template-columns: 206px 206px 206px;
+	grid-column-gap: 21px;
+
+	/* border: 1px solid blue; */
+}
+
+.call-out-container > div {
+	background: #eee;
+	padding: 0px;
+}
+
+.call-out-container > div:nth-child(odd) {
+	background: #ddd;
+}
+
+.tomos {
+	height: 206px;
+	width: 206px;
+
+	/* border: 1px solid blue; */
+}
+
+
+
+
+
+
+
