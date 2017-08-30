@@ -5,7 +5,8 @@
 	display: grid;
 	grid-template-columns: 206px 206px 206px;
 	grid-column-gap: 21px;
-	
+
+	background: #ddd;
 	border: 1px solid #ddd;
 	/* border: 1px solid blue; */
 }
